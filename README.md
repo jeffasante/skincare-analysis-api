@@ -38,7 +38,7 @@ A FastAPI-based backend service for mobile image upload and skincare analysis si
 
 ```bash
 # Navigate to project directory
-cd veefyed-backend
+cd skincare-analysis-api
 
 # Create virtual environment
 python -m venv venv
